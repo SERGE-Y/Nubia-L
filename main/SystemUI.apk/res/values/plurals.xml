@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d screens in Overview</item>
-        <item quantity="one">1 screen in Overview</item>
+        <item quantity="other">%d Обзор экрана</item>
+        <item quantity="one">1 обзор экрана</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Неправильный PIN код сим-карты, у вас осталось %d попыток.</item>
+        <item quantity="one">Неправильный PIN код сим-карты, у вас осталось %d попыток до блокировки. Вы можете обратиться к своему оператору, для разблокировки устройства.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="other">Неправильный PUK код сим-карты, у вас осталось %d попыток, прежде чем сим-карта станет полностью заблокируется.</item>
+        <item quantity="one">Неправильный PUK код сим-карты, у вас %d попыток, прежде чем сим-карта полностью заблокируется.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="one">Enter SIM PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Введите PIN карты сим-карты, у вас есть %d попыток до блокировки.</item>
+        <item quantity="one">Введите PIN карты сим-карты, у вас осталось %d попыток. Вы можете обратиться к своему оператору, для разблокировки устройства.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="other">Сим-карта отключена. Введите PUK код для продолжения. у вас осталось %d попыток до полной блокировки сим-карты. Обратитесь к вашему оператору для выяснения деталей.</item>
+        <item quantity="one">Сим-карта отключена. Введите PUK код для продолжения. у вас осталось %d попыток до полной блокировки сим-карты. Обратитесь к вашему оператору для выяснения деталей.</item>
     </plurals>
 </resources>
