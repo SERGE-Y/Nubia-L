@@ -21,7 +21,7 @@
     <string name="enable_app">Включено</string>
     <string name="disable_app">Выключено</string>
     <string name="stk_dialog_title">Меню SIM-карты</string>
-    <string name="default_tone_dialog_msg">Воспроизведение звука (тона)</string>
+    <string name="default_tone_dialog_msg">Воспроизведение звука</string>
     <string name="default_open_channel_msg">Открыть канал?</string>
     <string name="default_send_data_msg">Отправка данных</string>
     <string name="default_receive_data_msg">Получение данных</string>
