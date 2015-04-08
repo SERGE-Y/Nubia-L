@@ -5,7 +5,7 @@
     <string name="app_name2">Сервис SIM2</string>
     <string name="app_name3">Сервис SIM3</string>
     <string name="menu_end_session">Закончить сессию</string>
-    <string name="help">Справка</string>
+    <string name="help">Помощь</string>
     <string name="menu_back">Назад</string>
     <string name="service_name">Название службы</string>
     <string name="stk_no_service">Вне зоны обслуживания</string>
