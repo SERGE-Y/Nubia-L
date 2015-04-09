@@ -352,7 +352,7 @@
     <string name="monitoring_description_device_owned">"Это устройство управляется:
 %1$s
 
-Администратор может контролировать ваше устройство и сетевую активность, включая emails, приложения и защищенные веб-сайты.
+Администратор может контролировать ваше устройство и сетевую активность, включая e-mails, приложения и защищенные веб-сайты.
 
 Для большей информации, обратитесь к администратору."</string>
     <string name="monitoring_description_vpn">"Вам дано \"%1$s\" разрешение на создание VPN соединения.
@@ -360,112 +360,112 @@
 Это приложение может контролировать ваше устройство и сетевую активность, включая emails, приложения и защищенные веб-сайты."</string>
     <string name="monitoring_description_legacy_vpn">"Вы подключены к VPN (\"%1$s\").
 
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
+Ваш VPN сервис првайдер может контролировать ваше устройство, включая e-mails, приложения и защищенные веб-сайты."</string>
     <string name="monitoring_description_vpn_device_owned">"This device is managed by:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Вашш администратор может контролировать ваше устройство, включая e-mails, приложения и защищенные веб-сайты. Для более подробной информации, свяжитесь с вашим администратором.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+Так же у вас есть \"%2$s\" разрешение на создание VPN-соединения. Это приложение может контролировать сетевую деятельность."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Это устройство управляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Администратор может контролировать сетевую активность, включая электронную почту, приложения и безопасные веб-сайты. Для получения более подробной информации, обратитесь к администратору.
 
-Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+Кроме того вы подключены к VPN (\"%2$s\"). Ваш VPN-сервис провайдер может конролировать сетевую активностьустройства."</string>
+    <string name="monitoring_description_profile_owned">"Этот профиль управляется:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Администратор может контролировать ваше устройство и сетевую активность, в том числе электронную почту, приложения и защищенные веб-сайты.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+Для подробной информации, обратитесь к вашему администратору."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Это устройство управляется:
 %1$s
-Your profile is managed by:
+Этот профиль под управлением:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Администратор может контролировать ваше устройство и сетевую активность, в том числе электронную почту, приложения и защищенные веб-сайты.
 
-For more information, contact your administrator."</string>
+Для подробной информации, обратитесь к вашему администратору."</string>
     <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Администратор может контролировать ваше устройство и сетевую активность, в том числе электронную почту, приложения и защищенные веб-сайты. Для подробной информации, обратитесь к вашему администратору.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+Кроме того, у вас есть \"%2$s\" разрешение на создание соединения VPN. Это приложение также может контролировать сетевую активность."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Этот профиль под управлением:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Администратор может контролировать ваше устройство и сетевую активность, в том числе электронную почту, приложения и защищенные веб-сайты. Для подробной информации, обратитесь к вашему администратору.
 
-Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+Кроме того, вы подключены к VPN (\"%2$s\"). Ваш VPN-сервис провайдер может контролировать сетевую актиность."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Это устройство под управлением:
 %1$s
-Your profile is managed by:
+Этот профиль управляется:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Администратор может контролировать ваше устройство и сетевую активность, в том числе электронную почту, приложения и защищенные веб-сайты. Для подробной информации, обратитесь к вашему администратору.
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+Кроме того, у вас есть \"%3$s\" разрешение на создание соединения VPN. Также это приложение может контролировать сетевую активность."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Это устройство под управлением:
 %1$s
-Your profile is managed by:
+Этот профиль под управлением:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Администратор может контролировать ваше устройство и сетевую активность, в том числе электронную почту, приложения и защищенные веб-сайты. Для подробной информации, обратитесь к вашему администратору.
 
-Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-    <string name="hidden_notifications_title">Get notifications faster</string>
-    <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
-    <string name="hidden_notifications_setup">Set up</string>
-    <string name="muted_by">Muted by %1$s</string>
+Кроме того, вы подключены к VPN (\"%3$s\"). Ваш VPN-сервис провайдер может контролировать вашу сетевую активность."</string>
+    <string name="keyguard_indication_trust_disabled">Устройство останется заблокированным до тех пор, пока вы вручную его не разблокируете.</string>
+    <string name="hidden_notifications_title">Быстрое получение уведомлений</string>
+    <string name="hidden_notifications_text">Посмотреть, перед разблокировкой</string>
+    <string name="hidden_notifications_cancel">Нет спасибо</string>
+    <string name="hidden_notifications_setup">Установить</string>
+    <string name="muted_by">Приглушенный %1$s</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="email_note" />
     <string name="mms_note" />
     <string name="phone_note" />
-    <string name="phone_content">missed calls</string>
-    <string name="screen_saver_title">Anti-misoperation Pock Mode</string>
-    <string name="screen_saver_message">"Please don't shield the upper end of the phone"</string>
-    <string name="screen_saver_force_quite">Exit forcefully:press the Volume- and back button together</string>
-    <string name="settings_low_battery_title">Battery Alert</string>
-    <string name="settings_low_battery_message">Battery level is less than 40%,please connect charger.</string>
-    <string name="low_battery_toast">The battery is discharged,your phone will now power off.</string>
+    <string name="phone_content">Пропущенные вызовы</string>
+    <string name="screen_saver_title">Режим "В кармане"</string>
+    <string name="screen_saver_message">"Пожалуйста, не закрывайте верхнюю часть телефона"</string>
+    <string name="screen_saver_force_quite">Экстренный выход:Нажмите Громкость- и кнопку назад, одновременно.</string>
+    <string name="settings_low_battery_title">Оповещение Батареи</string>
+    <string name="settings_low_battery_message">Уровень батареи составляет менее 40%, подключите зарядное устройство</string>
+    <string name="low_battery_toast">Батарея разряжена, ваш телефон сейчас отключится.</string>
     <string name="ic_qs_wifi">WLAN</string>
     <string name="ic_qs_bluetooth">Bluetooth</string>
     <string name="ic_qs_gps">GPS</string>
     <string name="ic_qs_mobile">Data</string>
     <string name="ic_qs_syn">Sync</string>
-    <string name="ic_qs_auto">Brightness</string>
+    <string name="ic_qs_auto">Яркость</string>
     <string name="ic_qs_data">Data</string>
     <string name="ic_qs_sync">Sync</string>
-    <string name="ic_qs_rotation">Rotation</string>
-    <string name="ic_qs_motion">Motion</string>
-    <string name="ic_qs_ringer">Ringer</string>
-    <string name="ic_qs_vibrate">Vibrate</string>
-    <string name="ic_qs_mute">Mute Mode</string>
-    <string name="ic_qs_airplane">Airplane</string>
-    <string name="ic_qs_saving">Power</string>
-    <string name="ic_qs_pocket">Pocket</string>
-    <string name="ic_qs_meeting">Meeting</string>
-    <string name="ic_qs_sleeping">Sleep</string>
-    <string name="ic_qs_visitor">Visitor</string>
-    <string name="ic_qs_brightness">Brightness</string>
+    <string name="ic_qs_rotation">Вращение</string>
+    <string name="ic_qs_motion">Движение</string>
+    <string name="ic_qs_ringer">Звонок</string>
+    <string name="ic_qs_vibrate">Вибро</string>
+    <string name="ic_qs_mute">Без звука</string>
+    <string name="ic_qs_airplane">В Самолете</string>
+    <string name="ic_qs_saving">Питание</string>
+    <string name="ic_qs_pocket">В кармане</string>
+    <string name="ic_qs_meeting">Встреча</string>
+    <string name="ic_qs_sleeping">Сон</string>
+    <string name="ic_qs_visitor">Посетитель</string>
+    <string name="ic_qs_brightness">Яркость</string>
     <string name="ic_qs_wificast">WifiCast</string>
-    <string name="ic_qs_screen_capture">Capture</string>
-    <string name="ic_qs_clear">Clear</string>
-    <string name="ic_qs_sort">Sort</string>
-    <string name="ic_qs_singlehand">One-Hand</string>
-    <string name="ic_qs_settings">Settings</string>
-    <string name="ic_qs_lockscreen">Lockscreen</string>
-    <string name="ic_qs_screenprojector">ScreenProjector</string>
-    <string name="ic_qs_splitscreen">SplitScreen</string>
-    <string name="ic_qs_undisturb">Undisturb</string>
+    <string name="ic_qs_screen_capture">Скриншот</string>
+    <string name="ic_qs_clear">Очистить</string>
+    <string name="ic_qs_sort">Сортировать</string>
+    <string name="ic_qs_singlehand">Одна рука</string>
+    <string name="ic_qs_settings">Настройки</string>
+    <string name="ic_qs_lockscreen">Экран блокировки</string>
+    <string name="ic_qs_screenprojector">Проекционный экран</string>
+    <string name="ic_qs_splitscreen">Сплит-экранn</string>
+    <string name="ic_qs_undisturb">Первоначальная</string>
     <string name="nothing" />
-    <string name="arrange_title_name">Arrange Toggles</string>
+    <string name="arrange_title_name">Упорядочить переключатели</string>
     <string name="confirm_new_sort">ok</string>
-    <string name="toast_memory_clear">All the background applications are close.</string>
+    <string name="toast_memory_clear">Все фоновые приложения закрыты</string>
     <string name="close_single_toast">Single screen mode has been closed</string>
     <string name="close_single_text">We can not turn on single screen mode on rotation mode,it will turn off single screen mode</string>
     <string name="status_bar_setting_lockscreen">lockscreen</string>
