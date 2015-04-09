@@ -215,7 +215,7 @@
     <string name="accessibility_rotation_lock_on_landscape_changed">Экран заблокирован в альбомной ориентации.</string>
     <string name="accessibility_rotation_lock_on_portrait_changed">Экран заблокирован в портретной ориентации.</string>
     <string name="dessert_case">Dessert Case</string>
-    <string name="start_dreams">Daydream</string>
+    <string name="start_dreams">Заставка</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="quick_settings_airplane_mode_label">Режим в самолете</string>
     <string name="quick_settings_mobile_data_label">Мобильные данные</string>
@@ -317,48 +317,48 @@
     <string name="guest_exit_guest">Удалить гостя</string>
     <string name="guest_exit_guest_dialog_title">Удалить гостя?</string>
     <string name="guest_exit_guest_dialog_message">Все приложения и данные текущей сессии будут удалены.</string>
-    <string name="guest_exit_guest_dialog_remove">Remove</string>
-    <string name="guest_wipe_session_title">Welcome back, guest!</string>
-    <string name="guest_wipe_session_message">Do you want to continue your session?</string>
-    <string name="guest_wipe_session_wipe">Start over</string>
-    <string name="guest_wipe_session_dontwipe">Yes, continue</string>
-    <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+    <string name="guest_exit_guest_dialog_remove">Удалить</string>
+    <string name="guest_wipe_session_title">Добро пожаловать, Гость!</string>
+    <string name="guest_wipe_session_message">Вы хотите продолжить сеанс?</string>
+    <string name="guest_wipe_session_wipe">Начать сначала</string>
+    <string name="guest_wipe_session_dontwipe">Да, продолжить</string>
+    <string name="user_add_user_title">Добавить нового пользователя?</string>
+    <string name="user_add_user_message_short">"При добавлении нового пользователя, необходимо настроить персоналное пространство.
 
-Any user can update apps for all other users."</string>
-    <string name="battery_saver_notification_title">Battery saver is on</string>
-    <string name="battery_saver_notification_text">Reduces performance and background data</string>
-    <string name="battery_saver_notification_action_text">Turn off battery saver</string>
+Любой пользователь может обновить приложения для все остальных пользователей."</string>
+    <string name="battery_saver_notification_title">Заставка батареи включена</string>
+    <string name="battery_saver_notification_text">Снижение производительности и данных в фоновом режиме</string>
+    <string name="battery_saver_notification_action_text">Включить энергосбережение</string>
     <string name="battery_level_template">%d%%</string>
-    <string name="notification_hidden_text">Contents hidden</string>
-    <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-    <string name="media_projection_remember_text">"Don't show again"</string>
-    <string name="clear_all_notifications_text">Clear all</string>
-    <string name="media_projection_action_text">Start now</string>
-    <string name="empty_shade_text">No notifications</string>
-    <string name="tasklistview_title">Task Manager</string>
-    <string name="message_switch_fail">Can not switch to this task, because it has no interface.</string>
-    <string name="tasklist_killall">Kill All</string>
-    <string name="tasklist_memory_usage" formatted="false">Free/Total Memory: [%s] / [%s]</string>
-    <string name="message_keep_one_launcher">Should keep at lease one home activity!</string>
-    <string name="device_owned_footer">Device may be monitored</string>
-    <string name="profile_owned_footer">Profile may be monitored</string>
-    <string name="vpn_footer">Network may be monitored</string>
-    <string name="monitoring_title_device_owned">Device monitoring</string>
-    <string name="monitoring_title_profile_owned">Profile monitoring</string>
-    <string name="monitoring_title">Network monitoring</string>
-    <string name="disable_vpn">Disable VPN</string>
-    <string name="disconnect_vpn">Disconnect VPN</string>
-    <string name="monitoring_description_device_owned">"This device is managed by:
+    <string name="notification_hidden_text">Контент скрыт</string>
+    <string name="media_projection_dialog_text">"%s Захват всего, что отображается на экране."</string>
+    <string name="media_projection_remember_text">"Не показывать снова."</string>
+    <string name="clear_all_notifications_text">Очистить все</string>
+    <string name="media_projection_action_text">Запустить сейчас</string>
+    <string name="empty_shade_text">Без уведомлений</string>
+    <string name="tasklistview_title">Диспетчер задач</string>
+    <string name="message_switch_fail">Не выключается эта задача,  так как не имеет интерфейса.</string>
+    <string name="tasklist_killall">УБИТЬ ВСЕ!</string>
+    <string name="tasklist_memory_usage" formatted="false">Свободно/Вся память: [%s] / [%s]</string>
+    <string name="message_keep_one_launcher">Хранить домашний экран активным!</string>
+    <string name="device_owned_footer">Устройство может контролироваться</string>
+    <string name="profile_owned_footer">Профиль можно контролировать</string>
+    <string name="vpn_footer">Сеть может контролироваться</string>
+    <string name="monitoring_title_device_owned">Устройство под контролем</string>
+    <string name="monitoring_title_profile_owned">Профиль под контролем</string>
+    <string name="monitoring_title">Сеть под контролем</string>
+    <string name="disable_vpn">Отключить VPN</string>
+    <string name="disconnect_vpn">Отключен VPN</string>
+    <string name="monitoring_description_device_owned">"Это устройство управляется:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Администратор может контролировать ваше устройство и сетевую активность, включая emails, приложения и защищенные веб-сайты.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+Для большей информации, обратитесь к администратору."</string>
+    <string name="monitoring_description_vpn">"Вам дано \"%1$s\" разрешение на создание VPN соединения.
 
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You're connected to a VPN (\"%1$s\").
+Это приложение может контролировать ваше устройство и сетевую активность, включая emails, приложения и защищенные веб-сайты."</string>
+    <string name="monitoring_description_legacy_vpn">"Вы подключены к VPN (\"%1$s\").
 
 Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
     <string name="monitoring_description_vpn_device_owned">"This device is managed by:
